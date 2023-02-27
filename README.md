@@ -1,1 +1,3 @@
 # James_ConstantIntegrationPractice
+
+Practicing continuous integration
